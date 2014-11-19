@@ -1,5 +1,5 @@
-#Ira's mega project
+#Mobile Application "Weight calculator"
 
-##Mobile Computations
+## Calculation of normal weight person
 
 ## all right

@@ -11,3 +11,4 @@ Screenshots of Mobile application:
 =============================================
 
 ![icon for project](https://github.com/IrinaVG/MobiApp/blob/master/img/1.png)
+![screen1](https://github.com/IrinaVG/MobiApp/blob/master/img/2.jpg)

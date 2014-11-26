@@ -14,3 +14,4 @@ of his body and determine the ideal parameters, taking into account its current 
 
 1. "Icon" ![icon for project](https://github.com/IrinaVG/MobiApp/master/img/1.png "Icon")
 2. "Screen1"![screen1](https://raw.githubusercontent.com/IrinaVG/MobiApp/master/img/2.JPG)
+3. "Screen2"![screen2](https://raw.githubusercontent.com/IrinaVG/MobiApp/master/img/3.png)
